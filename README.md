@@ -26,6 +26,11 @@ https://app.datacamp.com/learn/courses/winning-a-kaggle-competition-in-python
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
 
+4. Making Friends with Machine Learning - Cassie Kozyrkov:
+
+https://www.youtube.com/watch?v=lYWt-aCnE2U&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG
+
+
 
 
 
