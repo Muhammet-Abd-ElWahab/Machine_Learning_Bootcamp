@@ -30,6 +30,11 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
 https://www.youtube.com/watch?v=lYWt-aCnE2U&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG
 
+5. Machine Learning | Andrew Ng:
+
+https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+
+
 
 
 
