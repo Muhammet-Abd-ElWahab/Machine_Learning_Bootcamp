@@ -3,7 +3,7 @@
 
 ### Overview:
 
-The main purpose of this repo is to learn Machine Learning step by step and we will try to do our best to import any link, book, notebook and resources that will help us in ML track.
+main purpose of this repo is to learn Machine Learning step by step and we will try to do our best to import any link, book, notebook and resources that will help us in ML track.
 
 
 
