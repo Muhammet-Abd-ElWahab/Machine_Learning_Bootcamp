@@ -31,6 +31,7 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 https://www.youtube.com/watch?v=lYWt-aCnE2U&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG
 
 5. Work management platform
+
 https://trello.com/b/IRSZAKrY/kaggles-30-days-of-ml
 
 
