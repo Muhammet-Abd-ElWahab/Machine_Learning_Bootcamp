@@ -35,6 +35,21 @@ https://www.youtube.com/watch?v=lYWt-aCnE2U&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy
 https://trello.com/b/IRSZAKrY/kaggles-30-days-of-ml
 
 
+### Suggested hackathons:
+
+1. Regression hackathon
+
+[Predicting disease spread -- drivendata](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/page/82/)
+
+2. Classification hackathon
+
+[Predicting news category -- machinehack](https://machinehack.com/hackathons/predict_the_news_category_hackathon/overview)
+
+3. Visualisation hackathon
+
+[Visualising food delivery time -- machinehack](https://machinehack.com/hackathons/visualization/visualization_challenge_1_analyze_and_visualize_the_food_delivery_time_for_different_cuisines/overview)
+
+
 
 
 
