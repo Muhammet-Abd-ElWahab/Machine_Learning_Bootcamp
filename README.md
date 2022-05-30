@@ -34,6 +34,9 @@ https://www.youtube.com/watch?v=lYWt-aCnE2U&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy
 
 https://trello.com/b/IRSZAKrY/kaggles-30-days-of-ml
 
+6. An article for the Difference between Decision Tree Regressor and Random Forest Regressor
+
+https://towardsdatascience.com/understanding-random-forest-58381e0602d2
 
 ### Suggested hackathons:
 
