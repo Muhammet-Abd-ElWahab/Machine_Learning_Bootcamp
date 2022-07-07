@@ -54,27 +54,23 @@ https://trello.com/b/IRSZAKrY/kaggles-30-days-of-ml
 
 
 			---------------------------------------------------------------------------------------
-				       Team1        - 		    Team2           -	        Team3            
+				       Team1        - 		    Team2           -	        Team3          
 			---------------------------------------------------------------------------------------
-				   Mohamed Gamal    - 		Alhassan Mohamed    - 	     Rami Ashraf     	    
+				   Mohamed Gamal    - 		Alhassan Mohamed    - 	     Rami Ashraf     	
 			----------------------------------------------------------------------------------------
-				   Dalia Sarhan     - 		Abdullah Alsayed    - 	     Yasmin Kinawi   	   					
+				   Dalia Sarhan     - 		Abdullah Alsayed    - 	     Yasmin Kinawi   	
 			----------------------------------------------------------------------------------------
-				   Ahmed Hany       - 		Mohamed Shabaan     -	  	   	      	 				
+				   Ahmed Hany       - 		Mohamed Shabaan     -	  	   	      	
 			----------------------------------------------------------------------------------------
-				   Mostafa Refaat   -         	     Mona           - 	 	   	     	 					
+				   Mostafa Refaat   -         	     Mona           - 	 	   	     	
 			----------------------------------------------------------------------------------------
-				   Alsawy Mohamed   -         	   Abdelaziz        -		     	     	 				
+				   Alsawy Mohamed   -         	   Abdelaziz        -		     	     	
 			----------------------------------------------------------------------------------------
-						    -         	 Abdelrahman        -		      	 	 				
+						    -         	 Abdelrahman        -		      	 	
 			----------------------------------------------------------------------------------------
 
-	
-	
-	
-	
-	
-	
+
+
 
 
 ### Kaggle accounts:
@@ -84,48 +80,31 @@ https://trello.com/b/IRSZAKrY/kaggles-30-days-of-ml
 			----------------------------------------------------------------------------------------
 				       Name             - 		    Kaggle link           		 
 			----------------------------------------------------------------------------------------
-				   Mohamed Gamal        - 	https://www.kaggle.com/muhammetgamal5/code	 
+				       Hamza            - 	https://www.kaggle.com/mahmoudhamza/code	
 			----------------------------------------------------------------------------------------
-				   Dalia Sarhan         - 	https://www.kaggle.com/daliasarhan/code	 	 		
+				   Mohamed Gamal        - 	https://www.kaggle.com/muhammetgamal5/code	
 			----------------------------------------------------------------------------------------
-				   Ahmed Hany           - 	https://www.kaggle.com/ahmedhany590/code  	 				
+				   Dalia Sarhan         - 	https://www.kaggle.com/daliasarhan/code	 	
 			----------------------------------------------------------------------------------------
-				   Mostafa Refaat       -       https://www.kaggle.com/mostafarefaatm	         						
+				   Ahmed Hany           - 	https://www.kaggle.com/ahmedhany590/code  	
 			----------------------------------------------------------------------------------------
-				   Alsawy Mohamed       -       https://www.kaggle.com/alsawymohamed	   	 				
+				   Mostafa Refaat       -       https://www.kaggle.com/mostafarefaatm	        
 			----------------------------------------------------------------------------------------
-				   Alhassan Mohamed     - 	https://www.kaggle.com/alhassanmohamed/code        					
-			----------------------------------------------------------------------------------------	
-				   Abdelaziz Elsawy     - 	https://www.kaggle.com/abdelazizelsawy/code 	   					
-			----------------------------------------------------------------------------------------	
-				    Abdelrahman		-	https://www.kaggle.com/abdelrahmanrezk7/code	 		
+				   Alsawy Mohamed       -       https://www.kaggle.com/alsawymohamed	   	
 			----------------------------------------------------------------------------------------
-				    Mona		-	https://www.kaggle.com/monmon1987		 		
+				   Alhassan Mohamed     - 	https://www.kaggle.com/alhassanmohamed/code     
 			----------------------------------------------------------------------------------------
-				   Abdallah		-	https://www.kaggle.com/abdallashehab		 		
+				   Abdelaziz Elsawy     - 	https://www.kaggle.com/abdelazizelsawy/code 	
 			----------------------------------------------------------------------------------------
-				   Rami			-	https://www.kaggle.com/ramiashraf		 		
+				    Abdelrahman		-	https://www.kaggle.com/abdelrahmanrezk7/code	
 			----------------------------------------------------------------------------------------
-							-							 		
+				    Mona		-	https://www.kaggle.com/monmon1987		
 			----------------------------------------------------------------------------------------
-							-							 		
+				   Abdallah		-	https://www.kaggle.com/abdallashehab		
 			----------------------------------------------------------------------------------------
-							-							 		
+				   Rami			-	https://www.kaggle.com/ramiashraf		
 			----------------------------------------------------------------------------------------
-							-							 		
+							-							
 			----------------------------------------------------------------------------------------
-							-							 		
+							-							
 			----------------------------------------------------------------------------------------
-							-							 		
-			----------------------------------------------------------------------------------------
-							-							 		
-			----------------------------------------------------------------------------------------
-							-							 		
-			----------------------------------------------------------------------------------------
-
-
-	
-	
-	
-	
-	
