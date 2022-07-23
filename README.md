@@ -34,30 +34,6 @@ https://www.youtube.com/watch?v=lYWt-aCnE2U&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy
 
 https://trello.com/b/IRSZAKrY/kaggles-30-days-of-ml
 
-6. Kimberly Fessel:
-
-https://www.youtube.com/c/KimberlyFessel/playlists
-
-7. XGBoost & Catboost Using Optuna:
-
-https://www.kaggle.com/code/hamzaghanmi/xgboost-catboost-using-optuna
-
-
-8. Machine Learning — Andrew Ng, Stanford University
-
-https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
-
-
-
-9. Linux Commands:
-
-https://www.xmind.net/m/WwtB/#
-
-
-10. KNN Classification Tutorial using Scikit-learn
-
-https://www.datacamp.com/tutorial/k-nearest-neighbor-classification-scikit-learn
-
 
 ### Suggested hackathons:
 
@@ -78,21 +54,21 @@ https://www.datacamp.com/tutorial/k-nearest-neighbor-classification-scikit-learn
 
 
 			---------------------------------------------------------------------------------------
-				       Team1        - 		    Team2           -	        Team3
+				       Team1        - 		    Team2           -	        Team3          
 			---------------------------------------------------------------------------------------
-				   Mohamed Gamal    - 		Alhassan Mohamed    - 	       Yasmin Kinawi
+				   Mohamed Gamal    - 		Alhassan Mohamed    - 	          	
 			----------------------------------------------------------------------------------------
-				   Dalia Sarhan     - 		Abdullah Alsayed    -
+				   Dalia Sarhan     - 		Abdullah Alsayed    - 	     Yasmin Kinawi   	
 			----------------------------------------------------------------------------------------
-				   Ahmed Hany       - 		Mohamed Shabaan     -
+				   Ahmed Hany       - 		Mohamed Shabaan     -	  	   	      	
 			----------------------------------------------------------------------------------------
-				   Mostafa Refaat   -         	 Mona           -
+				   Mostafa Refaat   -         	     Mona           - 	 	   	     	
 			----------------------------------------------------------------------------------------
-				   Alsawy Mohamed   -          Abdelaziz        -
+				   Alsawy Mohamed   -         	   Abdelaziz        -		     	     	
 			----------------------------------------------------------------------------------------
-				    Rami Ashraf     -        Abdelrahman        -
+				    Rami Ashraf     -         	 Abdelrahman        -		      	 	
 			----------------------------------------------------------------------------------------
-				                    -         Alaa El Din       -
+				                    -            Alaa El Din       -		      	 	
 			----------------------------------------------------------------------------------------
 
 
@@ -104,33 +80,33 @@ https://www.datacamp.com/tutorial/k-nearest-neighbor-classification-scikit-learn
 
 
 			----------------------------------------------------------------------------------------
-				       Name             - 		    Kaggle link
+				       Name             - 		    Kaggle link           		 
 			----------------------------------------------------------------------------------------
-				       Hamza            - 	https://www.kaggle.com/mahmoudhamza/code
+				       Hamza            - 	https://www.kaggle.com/mahmoudhamza/code	
 			----------------------------------------------------------------------------------------
-				   Mohamed Gamal        - 	https://www.kaggle.com/muhammetgamal5/code
+				   Mohamed Gamal        - 	https://www.kaggle.com/muhammetgamal5/code	
 			----------------------------------------------------------------------------------------
-				   Dalia Sarhan         - 	https://www.kaggle.com/daliasarhan/code
+				   Dalia Sarhan         - 	https://www.kaggle.com/daliasarhan/code	 	
 			----------------------------------------------------------------------------------------
-				   Ahmed Hany           - 	https://www.kaggle.com/ahmedhany590/code
+				   Ahmed Hany           - 	https://www.kaggle.com/ahmedhany590/code  	
 			----------------------------------------------------------------------------------------
-				   Mostafa Refaat       -   https://www.kaggle.com/mostafarefaatm
+				   Mostafa Refaat       -       https://www.kaggle.com/mostafarefaatm	        
 			----------------------------------------------------------------------------------------
-				   Alsawy Mohamed       -   https://www.kaggle.com/alsawymohamed
+				   Alsawy Mohamed       -       https://www.kaggle.com/alsawymohamed	   	
 			----------------------------------------------------------------------------------------
-				   Alhassan Mohamed     - 	https://www.kaggle.com/alhassanmohamed/code
+				   Alhassan Mohamed     - 	https://www.kaggle.com/alhassanmohamed/code     
 			----------------------------------------------------------------------------------------
-				   Abdelaziz Elsawy     - 	https://www.kaggle.com/abdelazizelsawy/code
+				   Abdelaziz Elsawy     - 	https://www.kaggle.com/abdelazizelsawy/code 	
 			----------------------------------------------------------------------------------------
-				    Abdelrahman         -	https://www.kaggle.com/abdelrahmanrezk7/code
+				    Abdelrahman		-	https://www.kaggle.com/abdelrahmanrezk7/code	
 			----------------------------------------------------------------------------------------
-				    Mona                -	https://www.kaggle.com/monmon1987
+				    Mona		-	https://www.kaggle.com/monmon1987		
 			----------------------------------------------------------------------------------------
-				   Abdallah             -	https://www.kaggle.com/abdallashehab
+				   Abdallah		-	https://www.kaggle.com/abdallashehab		
 			----------------------------------------------------------------------------------------
-				   Rami                 -	https://www.kaggle.com/ramiashraf
+				   Rami			-	https://www.kaggle.com/ramiashraf		
 			----------------------------------------------------------------------------------------
-				  AlaaEldin             -	https://www.kaggle.com/alaaeldinmanse
+				  AlaaEldin     	-	https://www.kaggle.com/alaaeldinmanse						
 			----------------------------------------------------------------------------------------
-
+							-							
 			----------------------------------------------------------------------------------------
